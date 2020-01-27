@@ -13,4 +13,4 @@ For other parts blog links will be updated soon.
 
 Thanks and regards<br>
 Anil kukreti<br>
-<img src="https://www.gravatar.com/avatar/c8e7249b3e2c620c954cc7734ffbc7ef" />
+<img src="https://www.gravatar.com/avatar/c8e7249b3e2c620c954cc7734ffbc7ef" width="50" height="50" />
