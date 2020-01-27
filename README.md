@@ -2,9 +2,9 @@
 
 Demo react native projects for publishing npm module to public <a href="https://www.npmjs.com/">npm registry</a> 
 
-<b>we came in this world with empty hands<br>we leave this world with empty hands.<br> 
-In between and afterwards<br>its just learning and teaching that remains with us. 
-</b>
+<b>we came in this world with empty hands</b><br>
+<b>we leave this world with empty hands.</b><br>
+<b>In between and afterward it's just learning and teaching that remains with us.</b><br><br>
 
 Blog link <a href="http://relsellglobal.in/technical-blogs/using-react-native-component-in-local-npm-package/">part 1</a> 
 
