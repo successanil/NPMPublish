@@ -10,7 +10,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "publishdemolib": "file:../publishdemolib/publishdemolib-0.0.1.tgz",
+    "publishdemolib": "0.0.7",
     "react": "16.9.0",
     "react-native": "0.61.5"
   },
