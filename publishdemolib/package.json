@@ -1,6 +1,6 @@
 {
   "name": "publishdemolib",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "main": "App.js",
   "scripts": {
     "android": "react-native run-android",
@@ -14,6 +14,24 @@
     "react-native": "0.61.5",
     "rg-weather-app-node": "^1.0.5"
   },
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/successanil/NPMPublish.git"
+  },
+  "author": "Anil Kukreti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/successanil/NPMPublish/issues"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "ios",
+    "android",
+    "publish npm"
+  ],
+  "homepage": "https://github.com/successanil/NPMPublish/#readme",
   "bundledDependencies":[
     "rg-weather-app-node"
   ],
