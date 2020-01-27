@@ -1,7 +1,6 @@
 {
   "name": "publishdemolib",
   "version": "0.0.1",
-  "private": true,
   "main": "App.js",
   "scripts": {
     "android": "react-native run-android",

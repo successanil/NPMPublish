@@ -1,1 +1,4 @@
 localconfig.js
+node_modules
+ios/Pods
+android/app/build

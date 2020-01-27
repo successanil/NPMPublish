@@ -7,27 +7,34 @@
  */
 
 import React from 'react';
-import {
-  View,
-} from 'react-native';
-
+import {View} from 'react-native';
+import {Component} from 'react';
 
 const app = require('rg-weather-app-node');
-const localconfig = require('./localconfig');
 
-const App: () => React$Node = () => {
-  var argv = {
-    a:"New Delhi", 
-    gapi_key:localconfig.GMAP_KEY,
-    dapi_key:localconfig.DARK_SKY_API_KEY
-  };
-app.startProcess(argv);
-  return (
-    <View>
+class App extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      props: props,
+    };
+  }
+  componentDidMount() {
+    
+  }
 
-    </View>
-  );
+  render() {
+    return <View></View>;
+  }
+}
+
+var startProcessForTemp = (argv) => {
+  console.log('Test params');
+  console.log(argv);
+  app.startProcess(argv);
+}
+
+module.exports = {
+  App,
+  startProcessForTemp
 };
-
-
-export default App;
